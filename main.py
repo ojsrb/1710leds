@@ -1,3 +1,7 @@
+# created by Owen Schmidt
+
+# this code takes a while to load, please be patient
+
 import adafruit_display_text.label
 import board
 import displayio
