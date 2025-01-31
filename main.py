@@ -14,7 +14,7 @@ import framebufferio
 import rgbmatrix
 import terminalio
 
-bitmap = displayio.OnDiskBitmap("pixilart-sprite.bmp")
+bitmap = displayio.OnDiskBitmap("animation.bmp")
 pixel_shader = bitmap.pixel_shader
 
 displayio.release_displays()
