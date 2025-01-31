@@ -3,7 +3,7 @@
 # this code takes a while to load, please be patient
 
 # NOTE: file reading isn't working for some reason, please download it and add it in the editor here:
-# https://raw.githubusercontent.com/ojsrb/1710leds/refs/heads/main/pixilart-sprite.bmp
+# https://raw.githubusercontent.com/ojsrb/1710leds/refs/heads/main/animation.bmp
 # Thanks for your cooperation!
 # (This would not happen if this was running locally on a device)
 
